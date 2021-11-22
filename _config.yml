@@ -20,8 +20,6 @@ defaults:
         overlay_filter: 0.5
         actions:
           - label: "Nuget"
-            url: "https://www.nuget.org/packages/JCOBridge/"
+            url: "https://www.nuget.org/packages/MASES.JCOBridge/"
           - label: "Nuget Templates"
-            url: "https://www.nuget.org/packages/JCOBridge.Examples.Templates/"
-          - label: "Download"
-            url: "https://www.jcobridge.com/wpdownloads/"
+            url: "https://www.nuget.org/packages/MASES.JCOBridge.Templates/"
