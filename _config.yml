@@ -23,3 +23,5 @@ defaults:
             url: "https://www.nuget.org/packages/MASES.JCOBridge/"
           - label: "Nuget Templates"
             url: "https://www.nuget.org/packages/MASES.JCOBridge.Templates/"
+          - label: "Public issues"
+            url: "https://github.com/masesgroup/JCOBridge/issues"

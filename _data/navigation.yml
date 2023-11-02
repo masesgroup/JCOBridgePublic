@@ -1,22 +1,50 @@
 main:
-  - title: "Home"
+  - title: "MASES Group main site"
     url: https://masesgroup.github.io/
   - title: "Sinapse Platform"
     url: https://masesgroup.github.io/sinapse/
   - title: "JCOBridge"
     url: https://masesgroup.github.io/JCOBridge/
+  - title: "JNet"
+    url: https://masesgroup.github.io/JNet/
+  - title: "KNet"
+    url: https://masesgroup.github.io/KNet/
+  - title: "KEFCore"
+    url: https://masesgroup.github.io/KEFCore/
+  - title: "KNetOPC"
+    url: https://masesgroup.github.io/KNetOPC/
   - title: "JCOReflector"
     url: https://masesgroup.github.io/JCOReflector/
+  - title: "NuReflector"
+    url: https://masesgroup.github.io/NuReflector/
   - title: "Data Distribution Manager"
-    url: https://masesgroup.github.io/DataDistributionManager
-  - title: "DDM Chat"
-    url: https://masesgroup.github.io/DDMChat
+    url: https://masesgroup.github.io/DataDistributionManager/
+  - title: "CLIParser"
+    url: https://masesgroup.github.io/CLIParser/
   - title: "JCO SWT Bridge"
     url: https://masesgroup.github.io/JCOSWTBridge/
-  - title: "JCOBridge Examples"
-    url: https://masesgroup.github.io/JCOBridge-Examples
     
 sidebar_elements:
+  - title: Powered by JCOBridge
+    children:
+      - title: "JNet"
+        url: https://masesgroup.github.io/JNet/
+      - title: "KNet"
+        url: https://masesgroup.github.io/KNet/
+      - title: "KEFCore"
+        url: https://masesgroup.github.io/KEFCore/
+      - title: "KNetOPC"
+        url: https://masesgroup.github.io/KNetOPC/
+      - title: "JCOReflector"
+        url: https://masesgroup.github.io/JCOReflector/
+      - title: "NuReflector"
+        url: https://masesgroup.github.io/NuReflector/
+      - title: "JCO SWT Bridge"
+        url: https://masesgroup.github.io/JCOSWTBridge/
+  - title: Public issues
+    children:
+      - title: "Public issues"
+        url: https://github.com/masesgroup/JCOBridge/issues
   - title: External links
     children:
       - title: "Sinapse Platform Official site"
